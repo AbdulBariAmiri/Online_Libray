@@ -1,0 +1,26 @@
+/* header */
+
+.img {
+    background-image: linear-gradient(to right, #00000096, #000000b3), url('img/background.JPG');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 94vh;
+}
+
+.mt-10 {
+    margin-top: 8em;
+}
+
+.banner h2 {
+    font-size: 25px;
+}
+
+.banner h1 {
+    font-size: 8vw;
+    font-weight: bolder;
+}
+
+.banner p {
+    font-size: 20px;
+}
